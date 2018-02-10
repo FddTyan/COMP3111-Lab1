@@ -1,5 +1,5 @@
 package labs.comp3111.ust.hk;
 
-public class Lab1Activity{
-	
+public class Lab1Activity {
+
 }
